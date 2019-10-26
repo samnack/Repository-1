@@ -12,9 +12,20 @@
 
 
 
-<html>
+<img src="house.png">
+
+<table>
+
+
+<th>Vince</th>
+<tr>
+<td>Data</td>
+
+<a href="https://github.com/samnack/Repository-1/edit/master/Lab%207">CLICK HERE FOR INSPECT</a>
+
+</html>
 </body>
  
-<img src="house.png">
+
 
 
